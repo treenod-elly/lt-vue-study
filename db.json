@@ -39,7 +39,7 @@
       "NRUEndTime": 1652061600,
       "hotItems": {
         "20": false,
-        "60": false,
+        "60": true,
         "190": false
       },
       "specialProducts":[
