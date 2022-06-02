@@ -26,7 +26,7 @@
       "id": 4,
       "eventId": 3,
       "rewardType": 1,
-      "rewardItem": 1,
+      "rewardItem": 100,
       "rewardValue": 1,
       "mType": 125
     },
