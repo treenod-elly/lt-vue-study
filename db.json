@@ -1,16 +1,59 @@
 {
   "settings": [
     {
-      "id": 1000,
+      "id": 1,
+      "eventId": 1,
       "version": 1,
-      "country": "JP",
+      "country": 2,
       "stages": "event stage,bingo"
     },
     {
-      "id": 2000,
+      "id": 2,
+      "eventId": 2,
       "version": 21,
-      "country": "ALL",
+      "country": 1,
       "stages": "game center"
+    },
+    {
+      "id": 3,
+      "eventId": 3,
+      "rewardType": 0,
+      "rewardItem": 2,
+      "rewardValue": 1000,
+      "mType": 125
+    },
+    {
+      "id": 4,
+      "eventId": 3,
+      "rewardType": 1,
+      "rewardItem": 1,
+      "rewardValue": 1,
+      "mType": 125
+    },
+    {
+      "id": 5,
+      "eventId": 4,
+      "isSaleOn": 1,
+      "saleEndTime": 1654740000,
+      "isNRUSaleOn": 0,
+      "NRUEndTime": 1652061600,
+      "hotItems": {
+        "20": false,
+        "60": false,
+        "190": false
+      },
+      "specialProducts":[
+        {
+          "userType":  0,
+          "productNo": 3,
+          "version": 2
+        },
+        {
+          "userType":  2,
+          "productNo": 2,
+          "version": 5
+        }
+      ]
     }
   ]
 }
